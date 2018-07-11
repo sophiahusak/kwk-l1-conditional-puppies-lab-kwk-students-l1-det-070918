@@ -1,1 +1,1 @@
-def
+def no_puppies
