@@ -5,4 +5,4 @@ def no_puppies(num_of_puppies)
     puts "Well done, Rachel!"
   end
 end
-no_puppies(1)
+no_puppies(0)
